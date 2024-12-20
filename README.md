@@ -51,5 +51,3 @@ To utilize the Solana Raydium Bundler efficiently, please adhere to the followin
 The Solana Raydium Bundler offers a sophisticated solution for handling multiple transactions on the Solana blockchain. Adhering to the outlined setup and functions will enable smooth buying and selling processes. Engage with our Discord community to explore the strengths of this open-source tool further.
 
 Start optimizing your Solana transactions with the Solana Raydium Bundler today!
-
-For technical queries, feel free to reach out via X @james980114.
